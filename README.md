@@ -33,6 +33,5 @@ JungleWork/
 └── README.md
 
 
-ChromeDriver
+#run BlinkitFlowTest.java
 
-Maven (if project is configured as Maven)
